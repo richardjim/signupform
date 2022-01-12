@@ -1,6 +1,6 @@
 {
   "homepage": " https://richardjim.github.io/signupform/",
-  "name": "web-form",
+  "name": "signupform",
   "version": "0.1.0",
   "private": true,
   "scripts": {
