@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: '/signupform.vue /'
+    publicPath: '/signupform/'
 }
